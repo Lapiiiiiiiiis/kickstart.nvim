@@ -1,0 +1,2 @@
+### warning: multiple different client offset_encodings detected for buffer, this is not supported yet
+https://github.com/neovim/nvim-lspconfig/issues/2184#issuecomment-1511154286
